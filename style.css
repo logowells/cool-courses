@@ -4,6 +4,10 @@
   padding: 20px;
 }
 
+body{
+  overflow-x: hidden;
+ }
+
 h1 {
   font-size: 36px;
   margin-bottom: 20px;
